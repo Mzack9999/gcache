@@ -7,7 +7,7 @@ package list_test
 import (
 	"fmt"
 
-	"github.com/Mzack9999/gcache/internal/list"
+	"github.com/projectdiscovery/gcache/internal/list"
 )
 
 func Example() {

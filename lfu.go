@@ -3,7 +3,7 @@ package gcache
 import (
 	"time"
 
-	"github.com/Mzack9999/gcache/internal/list"
+	"github.com/projectdiscovery/gcache/internal/list"
 )
 
 // Discards the least frequently used items first.

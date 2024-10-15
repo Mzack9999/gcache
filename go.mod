@@ -1,3 +1,3 @@
-module github.com/Mzack9999/gcache
+module github.com/projectdiscovery/gcache
 
 go 1.19
